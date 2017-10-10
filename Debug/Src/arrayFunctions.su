@@ -1,0 +1,3 @@
+arrayFunctions.c:9:8:findBytes	24	static
+arrayFunctions.c:38:9:findMultipleBytes	48	static
+arrayFunctions.c:64:10:appendBytes	16	static
